@@ -1,0 +1,7 @@
+User-agent: *
+Allow: /
+Disallow: /assets/docs/
+
+# Host and Sitemap
+Host: neoraalusys.it
+Sitemap: https://neoraalusys.it/sitemap.xml

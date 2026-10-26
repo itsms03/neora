@@ -1,0 +1,23 @@
+{
+  "name": "neora-alusys-website",
+  "version": "1.0.0",
+  "description": "Architectural aluminium and glass systems website for Neora Alusys - Designed in Spain",
+  "scripts": {
+    "start": "node local-server.js",
+    "serve": "node local-server.js",
+    "build": "node build-pages.js"
+  },
+  "keywords": [
+    "neora",
+    "alusys",
+    "architecture",
+    "glass",
+    "aluminium",
+    "spain"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^10.2.1"
+  }
+}
